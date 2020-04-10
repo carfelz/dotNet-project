@@ -1,0 +1,48 @@
+﻿@page
+@model Almacen.Pages.UsuariosModel
+@{
+}
+
+    <h1>Usuarios</h1>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Codigo</th>
+            <th>Nombre</th>
+            <th>Apellido</th>
+            <th>Correo Electronico</th>
+            <th>Contrasena</th>
+            <th>Rol</th>
+            <th>Estado</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var usuario in Model.usuarios)
+        {
+            <tr>
+                <td>@usuario.Id</td>
+                <td>@usuario.Nombre</td>
+                <td>@usuario.Apellido</td>
+                <td>@usuario.Correo</td>
+                <td>@usuario.Contrasena</td>
+                <td>@usuario.Rol</td>
+                <td>@usuario.Estado</td>
+                <td>
+                    <a class="btn btn-primary"
+                       asp-page="/EditAdministracion"
+                       asp-route-userId="@usuario.Id">
+                        Editar
+                    </a>
+                    <button class="btn btn-danger"
+                            type="button">
+                        Eliminar
+                    </button>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-page="/EditAdministracion" class="btn btn-primary"> Agregar usuario</a>

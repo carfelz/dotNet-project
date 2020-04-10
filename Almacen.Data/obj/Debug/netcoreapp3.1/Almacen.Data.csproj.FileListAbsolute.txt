@@ -1,0 +1,15 @@
+C:\Users\carlo\Desktop\dotNet-project\Almacen.Data\bin\Debug\netcoreapp3.1\Almacen.Data.deps.json
+C:\Users\carlo\Desktop\dotNet-project\Almacen.Data\bin\Debug\netcoreapp3.1\Almacen.Data.runtimeconfig.json
+C:\Users\carlo\Desktop\dotNet-project\Almacen.Data\bin\Debug\netcoreapp3.1\Almacen.Data.runtimeconfig.dev.json
+C:\Users\carlo\Desktop\dotNet-project\Almacen.Data\bin\Debug\netcoreapp3.1\Almacen.Data.dll
+C:\Users\carlo\Desktop\dotNet-project\Almacen.Data\bin\Debug\netcoreapp3.1\Almacen.Data.pdb
+C:\Users\carlo\Desktop\dotNet-project\Almacen.Data\bin\Debug\netcoreapp3.1\Almacen.Core.dll
+C:\Users\carlo\Desktop\dotNet-project\Almacen.Data\bin\Debug\netcoreapp3.1\Almacen.Core.pdb
+C:\Users\carlo\Desktop\dotNet-project\Almacen.Data\obj\Debug\netcoreapp3.1\Almacen.Data.csprojAssemblyReference.cache
+C:\Users\carlo\Desktop\dotNet-project\Almacen.Data\obj\Debug\netcoreapp3.1\Almacen.Data.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\dotNet-project\Almacen.Data\obj\Debug\netcoreapp3.1\Almacen.Data.AssemblyInfoInputs.cache
+C:\Users\carlo\Desktop\dotNet-project\Almacen.Data\obj\Debug\netcoreapp3.1\Almacen.Data.AssemblyInfo.cs
+C:\Users\carlo\Desktop\dotNet-project\Almacen.Data\obj\Debug\netcoreapp3.1\Almacen.Data.csproj.CopyComplete
+C:\Users\carlo\Desktop\dotNet-project\Almacen.Data\obj\Debug\netcoreapp3.1\Almacen.Data.dll
+C:\Users\carlo\Desktop\dotNet-project\Almacen.Data\obj\Debug\netcoreapp3.1\Almacen.Data.pdb
+C:\Users\carlo\Desktop\dotNet-project\Almacen.Data\obj\Debug\netcoreapp3.1\Almacen.Data.genruntimeconfig.cache

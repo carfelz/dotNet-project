@@ -1,0 +1,30 @@
+﻿@page
+@model DespachoModel
+@{
+}
+
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Codigo</th>
+                <th>Fecha</th>
+                <th>Accion</th>
+                <th>Cliente</th>
+                <th>Contacto</th>
+                <th>Detalle</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var despacho in Model.despachoProductos)
+            {
+                <tr>
+                    <td>@despacho.Id</td>
+                    <td>@despacho.Fecha</td>
+                    <td>@despacho.TipoAccion</td>
+                    <td>@despacho.Cliente</td>
+                    <td>@despacho.Contacto</td>
+                    <td>@despacho.Detalle</td>
+                </tr>
+            }
+        </tbody>
+    </table>

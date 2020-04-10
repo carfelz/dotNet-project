@@ -1,0 +1,12 @@
+C:\Users\carlo\Desktop\dotNet-project\Almacen.Data\bin\Debug\netstandard21\Almacen.Data.deps.json
+C:\Users\carlo\Desktop\dotNet-project\Almacen.Data\bin\Debug\netstandard21\Almacen.Data.dll
+C:\Users\carlo\Desktop\dotNet-project\Almacen.Data\bin\Debug\netstandard21\Almacen.Data.pdb
+C:\Users\carlo\Desktop\dotNet-project\Almacen.Data\bin\Debug\netstandard21\Almacen.Core.dll
+C:\Users\carlo\Desktop\dotNet-project\Almacen.Data\bin\Debug\netstandard21\Almacen.Core.pdb
+C:\Users\carlo\Desktop\dotNet-project\Almacen.Data\obj\Debug\netstandard21\Almacen.Data.csprojAssemblyReference.cache
+C:\Users\carlo\Desktop\dotNet-project\Almacen.Data\obj\Debug\netstandard21\Almacen.Data.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\dotNet-project\Almacen.Data\obj\Debug\netstandard21\Almacen.Data.AssemblyInfoInputs.cache
+C:\Users\carlo\Desktop\dotNet-project\Almacen.Data\obj\Debug\netstandard21\Almacen.Data.AssemblyInfo.cs
+C:\Users\carlo\Desktop\dotNet-project\Almacen.Data\obj\Debug\netstandard21\Almacen.Data.csproj.CopyComplete
+C:\Users\carlo\Desktop\dotNet-project\Almacen.Data\obj\Debug\netstandard21\Almacen.Data.dll
+C:\Users\carlo\Desktop\dotNet-project\Almacen.Data\obj\Debug\netstandard21\Almacen.Data.pdb
