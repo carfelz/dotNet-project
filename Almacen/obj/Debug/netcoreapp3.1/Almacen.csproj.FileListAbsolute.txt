@@ -144,3 +144,4 @@ C:\Users\carlo\Desktop\dotNet-project\Almacen\bin\Debug\netcoreapp3.1\zh-Hans\Mi
 C:\Users\carlo\Desktop\dotNet-project\Almacen\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\carlo\Desktop\dotNet-project\Almacen\bin\Debug\netcoreapp3.1\package-lock.json
 C:\Users\carlo\Desktop\dotNet-project\Almacen\bin\Debug\netcoreapp3.1\package.json
+C:\Users\carlo\Desktop\dotNet-project\Almacen\obj\Debug\netcoreapp3.1\Razor\Pages\DeleteUser.cshtml.g.cs

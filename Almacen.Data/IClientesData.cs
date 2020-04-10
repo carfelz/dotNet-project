@@ -81,11 +81,37 @@ namespace Almacen.Data
                 new Clientes{ Id = 4, Nombre = "Elim", Apellido = "Feliz", Correo = "carlosjfeliz7@gmail.com", Direccion = "C/ primera los girasoles", Telefono = "809-365-1951", TipoCliente = TipoCliente.Empresa }
              };
         }
+
+        public Clientes Add(Clientes newcliente)
+        {
+            throw new NotImplementedException();
+        }
+
+        public int Commit()
+        {
+            throw new NotImplementedException();
+        }
+
+        public Clientes Delete(int id)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Clientes GetById(int id)
+        {
+            throw new NotImplementedException();
+        }
+
         public IEnumerable<Clientes> GetClientes()
         {
             return from c in Cliente
                    orderby c.Id
                    select c;
+        }
+
+        public Clientes Update(Clientes cliente)
+        {
+            throw new NotImplementedException();
         }
     }
 } 

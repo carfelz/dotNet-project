@@ -76,7 +76,7 @@ namespace Almacen.Data
 
 
 
-  /*  public class InMemoryDespachos : IDespachoData
+   public class InMemoryDespachos : IDespachoData
     {
         readonly List<DespachoProductos> despachoProductos;
         public InMemoryDespachos()
@@ -90,11 +90,37 @@ namespace Almacen.Data
             };
 
         }
+
+        public DespachoProductos Add(DespachoProductos newDespacho)
+        {
+            throw new NotImplementedException();
+        }
+
+        public int Commit()
+        {
+            throw new NotImplementedException();
+        }
+
+        public DespachoProductos Delete(int id)
+        {
+            throw new NotImplementedException();
+        }
+
+        public DespachoProductos GetById(int id)
+        {
+            throw new NotImplementedException();
+        }
+
         public IEnumerable<DespachoProductos> GetDespachoProductos()
         {
             return from d in despachoProductos
                    orderby d.Id
                    select d;
         }
-    }*/
+
+        public DespachoProductos Update(DespachoProductos despacho)
+        {
+            throw new NotImplementedException();
+        }
+    }
 }

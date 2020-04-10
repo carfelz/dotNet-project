@@ -1,0 +1,18 @@
+﻿@page "{userId:int}"
+@model DeleteUserModel
+@{
+}
+
+
+
+   <h1>Eliminar!</h1>
+   <div class="alert alert-danger">
+       Esta seguro que desea eliminar el usuario @Model.Usuarios.Nombre @Model.Usuarios.Apellido?
+   </div>
+   <form method="post">
+       <button type="submit" class="btn btn-danger">SI</button>
+       <a asp-page="/Administracion" class="btn btn-primary">
+           Cancelar
+       </a>
+   </form>
+  

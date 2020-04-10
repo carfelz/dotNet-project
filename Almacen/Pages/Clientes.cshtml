@@ -17,15 +17,16 @@
         <tbody>
             @foreach (var cliente in Model.Clientes)
             {
-            <tr>
-                <td>@cliente.Id</td>
-                <td>@cliente.Nombre</td>
-                <td>@cliente.Apellido</td>
-                <td>@cliente.Direccion</td>
-                <td>@cliente.Telefono</td>
-                <td>@cliente.Correo</td>
-                <td>@cliente.TipoCliente</td>
-            </tr>
+                <tr>
+                    <td>@cliente.Id</td>
+                    <td>@cliente.Nombre</td>
+                    <td>@cliente.Apellido</td>
+                    <td>@cliente.Direccion</td>
+                    <td>@cliente.Telefono</td>
+                    <td>@cliente.Correo</td>
+                    <td>@cliente.TipoCliente</td>
+                </tr>
             }
+
         </tbody>
     </table>
